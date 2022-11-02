@@ -2,7 +2,7 @@ package loops;
 
 import java.util.Scanner;
 
-public class ex2_Nota {
+public class Ex2_Nota {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
